@@ -2,7 +2,7 @@
 
 > Created in the github browser editor
 
-[Click here for lab repo](https://github.com/radioactivebean0/CSE110Lab1)
+[Click here for lab repo](https://github.com/radioactivebean0/CSE110Lab1)\
 [Start of images related to lab](https://github.com/radioactivebean0/CSE110Lab1/blob/gh-pages/index.md#git-command-screenshots)
 ## Technical skills
 #### languages and libraries
@@ -31,10 +31,10 @@ git add
 git commit
 git push
 ```
-<screenshothere>
+![alt text](./gitcommands.png)
   
 ## Doing the gitcommands in VScode
-<screenshothere>
+![alt text](./vscodescreenshots.png)
   
 
 ## Things left to do
